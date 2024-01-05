@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ManUtopiK/elk](https://github.com/ManUtopiK/elk)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|12/14/23 <br/>Report generated|
+|31<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -182,9 +182,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (16)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (16)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (17)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -199,6 +199,7 @@ Full tech stack [here](/techstack.md)
 |[fs-extra](https://www.npmjs.com/fs-extra)|v11.1.1|03/24/23|renovate[bot] |MIT|N/A|
 |[fuse.js](https://www.npmjs.com/fuse.js)|v6.6.2|12/20/22|Anthony Fu |Apache-2.0|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.1.0|12/20/22|Anthony Fu |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v14.0.1|09/13/23|renovate[bot] |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v10.0.0|07/02/23|renovate[bot] |ISC|N/A|
 |[nuxt](https://www.npmjs.com/nuxt)|v3.7.0|09/05/23|renovate[bot] |MIT|N/A|
 |[postcss-nested](https://www.npmjs.com/postcss-nested)|v6.0.1|04/12/23|Anthony Fu |MIT|N/A|
